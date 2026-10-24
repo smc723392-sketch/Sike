@@ -101,4 +101,3 @@ Steps:
           Write-Host "[$(Get-Date)] RDP Active - Use Ctrl+C in workflow to terminate"
           Start-Sleep -Seconds 300
       }
-แล้วสคริปนี้มันสร้างมันเขียนมาดีไหมหรือเราต้องปรับยังไงให้มันใช้ดีมากกว่านี้แบบพันพันพันพันพันเท่ามีคุณภาพ.
